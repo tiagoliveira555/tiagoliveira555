@@ -6,9 +6,9 @@
 
 ```JavaScript
 const tiagoliveira555 = {
-  nome: "TIAGO OLIVEIRA",
-  Area: "DESENVOLVIMENTO WEB",
-  Linguagens: [".NET", "Java", "JavaScript", "React"],
+  nome: "Tiago Oliveira",
+  area: "Desenvolvimento Web",
+  linguagens: [".NET", "Java", "JavaScript", "React"],
 };
 ```
 
