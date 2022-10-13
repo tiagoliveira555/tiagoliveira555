@@ -19,7 +19,7 @@ const tiagoliveira555 = {
 <code><img height="32" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></code>
 <code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Typescript-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Typescript"/></code>
+<code><img height="32" src="https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Typescript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code></code>
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
