@@ -8,7 +8,7 @@
 const tiagoliveira555 = {
   nome: "Tiago Oliveira",
   area: "Desenvolvimento Web",
-  linguagens: ["Node", "React", "Typescript"],
+  linguagens: ["Javascript", "Python"],
 };
 ```
 
