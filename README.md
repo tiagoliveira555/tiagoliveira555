@@ -27,15 +27,6 @@ const tiagoliveira555 = {
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-
-<div align="center">
-  <a href="https://github.com/tiagoliveira555">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoliveira555&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=tiagoliveira555&theme=dracula&show_icons=true"/>
-</div>
-  
-
 [linkedin]: https://www.linkedin.com/in/tiago-oliveira-921a37219
 
 #### Rede Sociais!
