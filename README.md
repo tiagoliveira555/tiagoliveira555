@@ -11,20 +11,6 @@ const tiagoliveira555 = {
   linguagens: ["Javascript", "Python"],
 };
 ```
-
-----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code></code>
-<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS"/></code></code>
-<code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></code>
-<code><img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></code>
-
 ---
 
 [linkedin]: https://www.linkedin.com/in/tiago-oliveira-921a37219
@@ -32,4 +18,3 @@ const tiagoliveira555 = {
 #### Rede Sociais!
 
 👔 [linkedin][linkedin]
- 
