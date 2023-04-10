@@ -11,7 +11,7 @@ const tiagoliveira555 = {
 ```
 ---
 
-[linkedin]: https://www.linkedin.com/in/tiago-oliveira-921a37219
+[linkedin]: https://www.linkedin.com/in/tiagoliveira555
 
 #### Rede Sociais!
 
