@@ -5,8 +5,8 @@
 ```JavaScript
 const tiagoliveira555 = {
   nome: "Tiago Oliveira",
-  area: "Backend, Engenharia de Dados",
-  linguagens: ["Javascript", "Python"],
+  area: "Desenvolvedor de Software, Engenharia de Dados",
+  linguagens: ["PHP", "Javascrip", "Python"],
 };
 ```
 ---
