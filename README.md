@@ -3,8 +3,9 @@
 ```JavaScript
 const tiagoliveira555 = {
   nome: "Tiago Oliveira",
-  area: "Desenvolvedor de Software, Engenharia de Dados",
-  linguagens: ["PHP", "Javascrip", "Python"],
+  area: "Desenvolvedor de Software",
+  linguagens: ["PHP", "Javascrip"],
+  frameworks: ["Laravel"]
 };
 ```
 ---
