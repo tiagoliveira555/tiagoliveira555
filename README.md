@@ -4,7 +4,7 @@
 const tiagoliveira555 = {
   nome: "Tiago Oliveira",
   area: "Desenvolvedor de Software",
-  linguagens: ["PHP", "Javascrip"],
+  linguagens: ["PHP", "Javascript"],
   frameworks: ["Laravel"]
 };
 ```
